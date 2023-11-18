@@ -12,7 +12,7 @@ VitaLink é um inovador hub de saúde conectado, projetado para promover o monit
 Após realizadas as conexões corretas basta rodar o codigo fonte presente no nosso repositório utilizando o Arduino IDE
 
 ## Simulador
-Caso opte por usar o simulador, basta acessar o projeto no [WokWi](https://wokwi.com/projects/305569599398609473) <br><br>
+Caso opte por usar o simulador, basta acessar o projeto no [WokWi](https://wokwi.com/projects/381742116298024961) <br><br>
 
 # Imagens
 ![circuito](VitaLink/Imagens/circuito-wokwi.png) <br><br>
